@@ -1,6 +1,5 @@
 import random
 
-# espero que goste🫠
 simbolos_tigrinho = ["💰", "🏮", "🧧", "🐯", "💎"] 
 
 
